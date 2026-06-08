@@ -43,6 +43,8 @@ streamlit run app.py
 
 ---
 
+## 🇬🇧 ENGLISH VERSION
+
 # 🤖 ANNA HYPERACTIVE AutoML
 
 **Version 2.0** | Voice-controlled AutoML assistant with local AI
