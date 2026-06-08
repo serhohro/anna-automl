@@ -1,45 +1,58 @@
+# 🤖 ANNA HYPERACTIVE AutoML <br> `anna-automl`
+
+---
+
 ## 🇩🇪 GERMAN VERSION
 
-```markdown
 # 🤖 ANNA HYPERACTIVE AutoML
 
-**Version 2.0** | Sprachgesteuerter AutoML-Assistent mit lokaler KI
+**Version 2.0** | *Sprachgesteuerter AutoML-Assistent mit lokaler KI für Data Analysts*
 
-## 📖 Über das Programm
+---
 
-ANNA HYPERACTIVE AutoML ist ein intelligenter Sprachassistent für automatisiertes maschinelles Lernen. Das Programm kann:
+### 📖 Über das Programm
 
-- 📊 **Daten analysieren** (CSV, Excel)
-- 🤖 **Automatisch die besten ML-Modelle auswählen** (Random Forest, LightGBM, CatBoost, SVM u.a.)
-- ⚡ **Im hyperaktiven Modus arbeiten** mit einer Latenz < 100 ms
-- 🎤 **Sprachbefehle verstehen** (mehr als 50 Befehle)
-- 🧠 **Alle Fragen beantworten** über lokales LLM (Ollama)
-- 📈 **3D-Diagramme und HTML-Dashboards erstellen**
-- 🔮 **Vorhersagen erklären** (SHAP, Feature Importance)
+**ANNA HYPERACTIVE AutoML** ist ein intelligenter Sprachassistent für automatisiertes maschinelles Lernen, der speziell für die schnelle Datenanalyse entwickelt wurde.
 
-## 🚀 Schnellstart
+*   📊 **Daten analysieren** — Volle Unterstützung für `CSV` und `Excel`.
+*   🤖 **Automatische ML-Modellauswahl** — Trainiert und vergleicht *Random Forest*, *LightGBM*, *CatBoost*, *SVM* u.a.
+*   ⚡ **Hyperaktiver Modus** — Ultraschnelle Verarbeitung mit einer Latenz von `< 100 ms`.
+*   🎤 **Sprachsteuerung** — Erkennt und verarbeitet mehr als 50 spezifische Sprachbefehle.
+*   🧠 **Lokales LLM** — Beantwortet alle analytischen Fragen komplett lokal via *Ollama*.
+*   📈 **Erweiterte Visualisierung** — Erstellt interaktive 3D-Diagramme und HTML-Dashboards.
+*   🔮 **Modell-Erklärbarkeit** — Macht Vorhersagen transparent durch *SHAP* und *Feature Importance*.
 
-### Installation
+---
 
-```bash
-# 1. Projekt klonen oder herunterladen
+### 🚀 Schnellstart
 
-# 2. Abhängigkeiten installieren
-pip install -r requirements.txt
+#### 📦 Installation
 
-# 3. (Optional) Ollama für intelligente Antworten installieren
-# Windows: Download von https://ollama.com
-# Mac: brew install ollama
-# Linux: curl -fsSL https://ollama.com/install.sh | sh
+1. **Projekt klonen oder herunterladen:**
+   ```bash
+   git clone https://github.com/DEIN-USERNAME/anna-automl.git
+   cd anna-automl
 
-# 4. Modell herunterladen (falls Ollama installiert ist)
-ollama pull mistral
+2. **Abhängigkeiten installieren:**
+   ```bash
+   pip install -r requirements.txt
 
-# 5. Ollama starten (in einem separaten Terminal)
-ollama serve
+3. **(Optional) Ollama für intelligente Antworten installieren:**
+   * **Windows:** Download von [ollama.com](https://ollama.com)
+   * **Mac:** `brew install ollama`
+   * **Linux:** `curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh) | sh`
 
-# 6. ANNA starten
-streamlit run app.py
+4. **Modell herunterladen und Ollama starten:**
+   ```bash
+   # Modell herunterladen (falls Ollama installiert ist)
+   ollama pull mistral
+
+   # Ollama starten (in einem separaten Terminal)
+   ollama serve
+
+4. **ANNA starten:**
+   ```bash
+   streamlit run app.py
 
 ---
 
@@ -47,40 +60,50 @@ streamlit run app.py
 
 # 🤖 ANNA HYPERACTIVE AutoML
 
-**Version 2.0** | Voice-controlled AutoML assistant with local AI
+**Version 2.0** | *Voice-controlled AutoML and Data Science assistant for Data Analysts with local AI*
 
-## 📖 About
+---
 
-ANNA HYPERACTIVE AutoML is an intelligent voice assistant for automated machine learning. The program can:
+### 📖 About
 
-- 📊 **Analyze data** (CSV, Excel)
-- 🤖 **Automatically select the best ML models** (Random Forest, LightGBM, CatBoost, SVM, and more)
-- ⚡ **Run in hyperactive mode** with latency < 100 ms
-- 🎤 **Understand voice commands** (50+ commands)
-- 🧠 **Answer any questions** via local LLM (Ollama)
-- 📈 **Create 3D plots and HTML dashboards**
-- 🔮 **Explain predictions** (SHAP, Feature Importance)
+**ANNA HYPERACTIVE AutoML** is an intelligent voice assistant designed to automate the machine learning workflow and simplify data analysis.
 
-## 🚀 Quick Start
+*   📊 **Analyze data** — Seamless processing of `CSV` and `Excel` datasets.
+*   🤖 **AutoML Engine** — Automatically trains and selects the best models (*Random Forest*, *LightGBM*, *CatBoost*, *SVM*, etc.).
+*   ⚡ **Hyperactive Mode** — Lightning-fast performance with latency `< 100 ms`.
+*   🎤 **Voice-Driven** — Built-in recognition for 50+ domain-specific voice commands.
+*   🧠 **Local LLM Integration** — Answers data questions locally using *Ollama*.
+*   📈 **Rich Visualizations** — Generates interactive 3D plots and standalone HTML dashboards.
+*   🔮 **Model Explainability** — Interprets predictions using *SHAP* and *Feature Importance*.
 
-### Installation
+---
 
-```bash
-# 1. Clone or download the project
+### 🚀 Quick Start
 
-# 2. Install dependencies
-pip install -r requirements.txt
+#### 📦 Installation
 
-# 3. (Optional) Install Ollama for smart responses
-# Windows: download from https://ollama.com
-# Mac: brew install ollama
-# Linux: curl -fsSL https://ollama.com/install.sh | sh
+1. **Clone or download the project:**
+   ```bash
+   git clone https://github.com/DEIN-USERNAME/anna-automl.git
+   cd anna-automl
 
-# 4. Download the model (if Ollama is installed)
-ollama pull mistral
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-# 5. Run Ollama (in a separate terminal)
-ollama serve
+3. **(Optional) Install Ollama for smart responses:**
+   * **Windows:** download from [ollama.com](https://ollama.com)
+   * **Mac:** `brew install ollama`
+   * **Linux:** `curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh) | sh`
 
-# 6. Launch ANNA
-streamlit run app.py
+4. **Download the model and run Ollama:**
+   ```bash
+   # Download the model (if Ollama is installed)
+   ollama pull mistral
+
+   # Run Ollama (in a separate terminal)
+   ollama serve
+
+5. **Launch ANNA:**
+   ```bash
+   streamlit run app.py
