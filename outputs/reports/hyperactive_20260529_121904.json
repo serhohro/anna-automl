@@ -1,0 +1,402 @@
+[
+  {
+    "iteration": 1,
+    "input": 1.54,
+    "prediction": 1.78,
+    "true_value": 3.31,
+    "action": "BUY",
+    "latency_ms": 99.72
+  },
+  {
+    "iteration": 2,
+    "input": 1.21,
+    "prediction": 1.29,
+    "true_value": 2.58,
+    "action": "BUY",
+    "latency_ms": 100.14
+  },
+  {
+    "iteration": 3,
+    "input": 1.47,
+    "prediction": 1.5,
+    "true_value": 2.91,
+    "action": "BUY",
+    "latency_ms": 99.38
+  },
+  {
+    "iteration": 4,
+    "input": -1.55,
+    "prediction": -1.71,
+    "true_value": -3.06,
+    "action": "SELL",
+    "latency_ms": 99.52
+  },
+  {
+    "iteration": 5,
+    "input": -1.08,
+    "prediction": -1.27,
+    "true_value": -1.97,
+    "action": "SELL",
+    "latency_ms": 99.55
+  },
+  {
+    "iteration": 6,
+    "input": -0.68,
+    "prediction": -0.74,
+    "true_value": -1.37,
+    "action": "SELL",
+    "latency_ms": 99.48
+  },
+  {
+    "iteration": 7,
+    "input": -1.8,
+    "prediction": -1.91,
+    "true_value": -4.04,
+    "action": "SELL",
+    "latency_ms": 99.48
+  },
+  {
+    "iteration": 8,
+    "input": 1.17,
+    "prediction": 1.27,
+    "true_value": 2.24,
+    "action": "BUY",
+    "latency_ms": 99.29
+  },
+  {
+    "iteration": 9,
+    "input": -0.41,
+    "prediction": -0.41,
+    "true_value": -0.95,
+    "action": "BUY",
+    "latency_ms": 99.54
+  },
+  {
+    "iteration": 10,
+    "input": 1.08,
+    "prediction": 1.11,
+    "true_value": 2.47,
+    "action": "BUY",
+    "latency_ms": 99.49
+  },
+  {
+    "iteration": 11,
+    "input": -0.69,
+    "prediction": -0.74,
+    "true_value": -1.05,
+    "action": "SELL",
+    "latency_ms": 99.37
+  },
+  {
+    "iteration": 12,
+    "input": 2.07,
+    "prediction": 2.22,
+    "true_value": 4.47,
+    "action": "BUY",
+    "latency_ms": 99.44
+  },
+  {
+    "iteration": 13,
+    "input": 0.49,
+    "prediction": 0.56,
+    "true_value": 1.11,
+    "action": "BUY",
+    "latency_ms": 99.48
+  },
+  {
+    "iteration": 14,
+    "input": -0.25,
+    "prediction": -0.28,
+    "true_value": -0.31,
+    "action": "SELL",
+    "latency_ms": 99.42
+  },
+  {
+    "iteration": 15,
+    "input": -1.31,
+    "prediction": -1.59,
+    "true_value": -2.56,
+    "action": "SELL",
+    "latency_ms": 99.23
+  },
+  {
+    "iteration": 16,
+    "input": 1.17,
+    "prediction": 1.23,
+    "true_value": 2.27,
+    "action": "BUY",
+    "latency_ms": 99.69
+  },
+  {
+    "iteration": 17,
+    "input": -1.16,
+    "prediction": -1.18,
+    "true_value": -2.99,
+    "action": "SELL",
+    "latency_ms": 99.45
+  },
+  {
+    "iteration": 18,
+    "input": 0.02,
+    "prediction": 0.02,
+    "true_value": -0.2,
+    "action": "BUY",
+    "latency_ms": 99.63
+  },
+  {
+    "iteration": 19,
+    "input": -0.47,
+    "prediction": -0.51,
+    "true_value": -1.33,
+    "action": "SELL",
+    "latency_ms": 99.54
+  },
+  {
+    "iteration": 20,
+    "input": 1.8,
+    "prediction": 1.88,
+    "true_value": 3.2,
+    "action": "BUY",
+    "latency_ms": 99.38
+  },
+  {
+    "iteration": 21,
+    "input": -0.48,
+    "prediction": -0.54,
+    "true_value": -0.98,
+    "action": "SELL",
+    "latency_ms": 99.38
+  },
+  {
+    "iteration": 22,
+    "input": -0.54,
+    "prediction": -0.55,
+    "true_value": -0.37,
+    "action": "SELL",
+    "latency_ms": 99.49
+  },
+  {
+    "iteration": 23,
+    "input": -0.12,
+    "prediction": -0.14,
+    "true_value": -0.34,
+    "action": "SELL",
+    "latency_ms": 99.91
+  },
+  {
+    "iteration": 24,
+    "input": 0.2,
+    "prediction": 0.23,
+    "true_value": 0.53,
+    "action": "BUY",
+    "latency_ms": 99.19
+  },
+  {
+    "iteration": 25,
+    "input": 1.27,
+    "prediction": 1.41,
+    "true_value": 2.64,
+    "action": "BUY",
+    "latency_ms": 99.57
+  },
+  {
+    "iteration": 26,
+    "input": 0.81,
+    "prediction": 0.82,
+    "true_value": 0.95,
+    "action": "BUY",
+    "latency_ms": 99.17
+  },
+  {
+    "iteration": 27,
+    "input": -0.71,
+    "prediction": -0.79,
+    "true_value": -1.28,
+    "action": "SELL",
+    "latency_ms": 99.49
+  },
+  {
+    "iteration": 28,
+    "input": 0.13,
+    "prediction": 0.15,
+    "true_value": 0.48,
+    "action": "BUY",
+    "latency_ms": 99.41
+  },
+  {
+    "iteration": 29,
+    "input": -0.43,
+    "prediction": -0.48,
+    "true_value": -1.09,
+    "action": "SELL",
+    "latency_ms": 99.27
+  },
+  {
+    "iteration": 30,
+    "input": 1.59,
+    "prediction": 1.9,
+    "true_value": 3.26,
+    "action": "BUY",
+    "latency_ms": 99.54
+  },
+  {
+    "iteration": 31,
+    "input": -0.6,
+    "prediction": -0.66,
+    "true_value": -0.8,
+    "action": "SELL",
+    "latency_ms": 99.33
+  },
+  {
+    "iteration": 32,
+    "input": 0.77,
+    "prediction": 0.88,
+    "true_value": 1.45,
+    "action": "BUY",
+    "latency_ms": 99.74
+  },
+  {
+    "iteration": 33,
+    "input": -0.47,
+    "prediction": -0.53,
+    "true_value": -0.56,
+    "action": "SELL",
+    "latency_ms": 99.15
+  },
+  {
+    "iteration": 34,
+    "input": 0.71,
+    "prediction": 0.78,
+    "true_value": 1.26,
+    "action": "BUY",
+    "latency_ms": 99.22
+  },
+  {
+    "iteration": 35,
+    "input": -0.38,
+    "prediction": -0.44,
+    "true_value": -0.47,
+    "action": "SELL",
+    "latency_ms": 99.28
+  },
+  {
+    "iteration": 36,
+    "input": 1.25,
+    "prediction": 1.29,
+    "true_value": 2.83,
+    "action": "BUY",
+    "latency_ms": 99.8
+  },
+  {
+    "iteration": 37,
+    "input": -1.85,
+    "prediction": -2.09,
+    "true_value": -3.23,
+    "action": "SELL",
+    "latency_ms": 99.48
+  },
+  {
+    "iteration": 38,
+    "input": -0.48,
+    "prediction": -0.55,
+    "true_value": -1.09,
+    "action": "SELL",
+    "latency_ms": 99.37
+  },
+  {
+    "iteration": 39,
+    "input": -0.58,
+    "prediction": -0.64,
+    "true_value": -1.39,
+    "action": "SELL",
+    "latency_ms": 99.58
+  },
+  {
+    "iteration": 40,
+    "input": 1.31,
+    "prediction": 1.52,
+    "true_value": 2.31,
+    "action": "BUY",
+    "latency_ms": 99.64
+  },
+  {
+    "iteration": 41,
+    "input": 1.22,
+    "prediction": 1.41,
+    "true_value": 2.52,
+    "action": "BUY",
+    "latency_ms": 99.55
+  },
+  {
+    "iteration": 42,
+    "input": -1.23,
+    "prediction": -1.38,
+    "true_value": -2.02,
+    "action": "SELL",
+    "latency_ms": 99.29
+  },
+  {
+    "iteration": 43,
+    "input": 1.97,
+    "prediction": 2.16,
+    "true_value": 4.38,
+    "action": "BUY",
+    "latency_ms": 99.44
+  },
+  {
+    "iteration": 44,
+    "input": -0.02,
+    "prediction": -0.02,
+    "true_value": 0.06,
+    "action": "SELL",
+    "latency_ms": 99.36
+  },
+  {
+    "iteration": 45,
+    "input": -0.62,
+    "prediction": -0.7,
+    "true_value": -0.76,
+    "action": "SELL",
+    "latency_ms": 99.58
+  },
+  {
+    "iteration": 46,
+    "input": -0.54,
+    "prediction": -0.58,
+    "true_value": -1.24,
+    "action": "SELL",
+    "latency_ms": 99.58
+  },
+  {
+    "iteration": 47,
+    "input": 0.64,
+    "prediction": 0.67,
+    "true_value": 1.01,
+    "action": "BUY",
+    "latency_ms": 99.26
+  },
+  {
+    "iteration": 48,
+    "input": -0.5,
+    "prediction": -0.53,
+    "true_value": -0.71,
+    "action": "SELL",
+    "latency_ms": 99.25
+  },
+  {
+    "iteration": 49,
+    "input": 0.37,
+    "prediction": 0.42,
+    "true_value": 0.53,
+    "action": "BUY",
+    "latency_ms": 99.24
+  },
+  {
+    "iteration": 50,
+    "input": -0.26,
+    "prediction": -0.29,
+    "true_value": -0.31,
+    "action": "SELL",
+    "latency_ms": 99.19
+  }
+]

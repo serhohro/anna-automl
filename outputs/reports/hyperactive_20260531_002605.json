@@ -1,0 +1,402 @@
+[
+  {
+    "iteration": 1,
+    "eingabe": -0.12,
+    "vorhersage": -0.13,
+    "wahrer_wert": -0.28,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.35
+  },
+  {
+    "iteration": 2,
+    "eingabe": 1.53,
+    "vorhersage": 1.8,
+    "wahrer_wert": 2.9,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.6
+  },
+  {
+    "iteration": 3,
+    "eingabe": 0.65,
+    "vorhersage": 0.68,
+    "wahrer_wert": 1.41,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.49
+  },
+  {
+    "iteration": 4,
+    "eingabe": 2.15,
+    "vorhersage": 2.35,
+    "wahrer_wert": 4.35,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.32
+  },
+  {
+    "iteration": 5,
+    "eingabe": 0.37,
+    "vorhersage": 0.44,
+    "wahrer_wert": 1.06,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.39
+  },
+  {
+    "iteration": 6,
+    "eingabe": 1.06,
+    "vorhersage": 1.22,
+    "wahrer_wert": 1.82,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.56
+  },
+  {
+    "iteration": 7,
+    "eingabe": -0.67,
+    "vorhersage": -0.78,
+    "wahrer_wert": -1.44,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.37
+  },
+  {
+    "iteration": 8,
+    "eingabe": 1.46,
+    "vorhersage": 1.62,
+    "wahrer_wert": 2.62,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.29
+  },
+  {
+    "iteration": 9,
+    "eingabe": 0.8,
+    "vorhersage": 0.91,
+    "wahrer_wert": 1.5,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.62
+  },
+  {
+    "iteration": 10,
+    "eingabe": 0.09,
+    "vorhersage": 0.1,
+    "wahrer_wert": 0.32,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.6
+  },
+  {
+    "iteration": 11,
+    "eingabe": -1.35,
+    "vorhersage": -1.48,
+    "wahrer_wert": -2.59,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.26
+  },
+  {
+    "iteration": 12,
+    "eingabe": -0.59,
+    "vorhersage": -0.67,
+    "wahrer_wert": -1.21,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.48
+  },
+  {
+    "iteration": 13,
+    "eingabe": 0.29,
+    "vorhersage": 0.35,
+    "wahrer_wert": 0.6,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.21
+  },
+  {
+    "iteration": 14,
+    "eingabe": 0.28,
+    "vorhersage": 0.32,
+    "wahrer_wert": 0.68,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.51
+  },
+  {
+    "iteration": 15,
+    "eingabe": 0.43,
+    "vorhersage": 0.44,
+    "wahrer_wert": 0.77,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.58
+  },
+  {
+    "iteration": 16,
+    "eingabe": 2.26,
+    "vorhersage": 2.46,
+    "wahrer_wert": 4.43,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.68
+  },
+  {
+    "iteration": 17,
+    "eingabe": -1.98,
+    "vorhersage": -2.21,
+    "wahrer_wert": -3.65,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.32
+  },
+  {
+    "iteration": 18,
+    "eingabe": 0.24,
+    "vorhersage": 0.27,
+    "wahrer_wert": 0.34,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.48
+  },
+  {
+    "iteration": 19,
+    "eingabe": 1.24,
+    "vorhersage": 1.3,
+    "wahrer_wert": 2.74,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.19
+  },
+  {
+    "iteration": 20,
+    "eingabe": 0.21,
+    "vorhersage": 0.23,
+    "wahrer_wert": 0.63,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.89
+  },
+  {
+    "iteration": 21,
+    "eingabe": 0.5,
+    "vorhersage": 0.54,
+    "wahrer_wert": 1.5,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.49
+  },
+  {
+    "iteration": 22,
+    "eingabe": 1.26,
+    "vorhersage": 1.36,
+    "wahrer_wert": 2.9,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.62
+  },
+  {
+    "iteration": 23,
+    "eingabe": -1.63,
+    "vorhersage": -1.86,
+    "wahrer_wert": -2.86,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.69
+  },
+  {
+    "iteration": 24,
+    "eingabe": -1.04,
+    "vorhersage": -1.14,
+    "wahrer_wert": -2.29,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.31
+  },
+  {
+    "iteration": 25,
+    "eingabe": -1.8,
+    "vorhersage": -1.99,
+    "wahrer_wert": -3.85,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.43
+  },
+  {
+    "iteration": 26,
+    "eingabe": -0.26,
+    "vorhersage": -0.29,
+    "wahrer_wert": -0.89,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.75
+  },
+  {
+    "iteration": 27,
+    "eingabe": -1.06,
+    "vorhersage": -1.12,
+    "wahrer_wert": -2.17,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.54
+  },
+  {
+    "iteration": 28,
+    "eingabe": 0.34,
+    "vorhersage": 0.37,
+    "wahrer_wert": 0.84,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.53
+  },
+  {
+    "iteration": 29,
+    "eingabe": 1.01,
+    "vorhersage": 1.12,
+    "wahrer_wert": 2.0,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.86
+  },
+  {
+    "iteration": 30,
+    "eingabe": 0.9,
+    "vorhersage": 0.94,
+    "wahrer_wert": 1.96,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.38
+  },
+  {
+    "iteration": 31,
+    "eingabe": -0.51,
+    "vorhersage": -0.55,
+    "wahrer_wert": -1.1,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.76
+  },
+  {
+    "iteration": 32,
+    "eingabe": 0.15,
+    "vorhersage": 0.16,
+    "wahrer_wert": 0.24,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.89
+  },
+  {
+    "iteration": 33,
+    "eingabe": 3.04,
+    "vorhersage": 3.27,
+    "wahrer_wert": 6.17,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.42
+  },
+  {
+    "iteration": 34,
+    "eingabe": -0.22,
+    "vorhersage": -0.23,
+    "wahrer_wert": -0.3,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.7
+  },
+  {
+    "iteration": 35,
+    "eingabe": -0.81,
+    "vorhersage": -0.91,
+    "wahrer_wert": -1.64,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.28
+  },
+  {
+    "iteration": 36,
+    "eingabe": -1.18,
+    "vorhersage": -1.29,
+    "wahrer_wert": -1.84,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.58
+  },
+  {
+    "iteration": 37,
+    "eingabe": -1.81,
+    "vorhersage": -1.96,
+    "wahrer_wert": -3.67,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.72
+  },
+  {
+    "iteration": 38,
+    "eingabe": -0.43,
+    "vorhersage": -0.46,
+    "wahrer_wert": -1.21,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.22
+  },
+  {
+    "iteration": 39,
+    "eingabe": 1.13,
+    "vorhersage": 1.23,
+    "wahrer_wert": 2.26,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.68
+  },
+  {
+    "iteration": 40,
+    "eingabe": -1.71,
+    "vorhersage": -1.9,
+    "wahrer_wert": -3.15,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.27
+  },
+  {
+    "iteration": 41,
+    "eingabe": 0.17,
+    "vorhersage": 0.2,
+    "wahrer_wert": 0.93,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.41
+  },
+  {
+    "iteration": 42,
+    "eingabe": 1.73,
+    "vorhersage": 1.85,
+    "wahrer_wert": 3.74,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.37
+  },
+  {
+    "iteration": 43,
+    "eingabe": 0.27,
+    "vorhersage": 0.28,
+    "wahrer_wert": 0.34,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.31
+  },
+  {
+    "iteration": 44,
+    "eingabe": -0.74,
+    "vorhersage": -0.85,
+    "wahrer_wert": -1.61,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.19
+  },
+  {
+    "iteration": 45,
+    "eingabe": 0.18,
+    "vorhersage": 0.2,
+    "wahrer_wert": 0.57,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.59
+  },
+  {
+    "iteration": 46,
+    "eingabe": 0.62,
+    "vorhersage": 0.66,
+    "wahrer_wert": 1.0,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.32
+  },
+  {
+    "iteration": 47,
+    "eingabe": 0.27,
+    "vorhersage": 0.28,
+    "wahrer_wert": 0.4,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.49
+  },
+  {
+    "iteration": 48,
+    "eingabe": -0.22,
+    "vorhersage": -0.24,
+    "wahrer_wert": -0.02,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.16
+  },
+  {
+    "iteration": 49,
+    "eingabe": 0.42,
+    "vorhersage": 0.46,
+    "wahrer_wert": 0.99,
+    "aktion": "KAUFEN",
+    "latenz_ms": 99.34
+  },
+  {
+    "iteration": 50,
+    "eingabe": -0.31,
+    "vorhersage": -0.36,
+    "wahrer_wert": -0.64,
+    "aktion": "VERKAUFEN",
+    "latenz_ms": 99.24
+  }
+]
